@@ -1,0 +1,8 @@
+# Connection
+
+## Screen
+
+* 5V to VCC
+* GND to GND
+* A5 to SCL
+* A4 to SDA
