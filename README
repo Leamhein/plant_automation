@@ -6,3 +6,15 @@
 * GND to GND
 * A5 to SCL
 * A4 to SDA
+
+## Moisture sensor
+
+* GND to GND
+* 5v to VCC
+* A0 to AUOT
+
+## Water Sensor
+
+* GND to GND
+* 5V to +
+* A1 to S
